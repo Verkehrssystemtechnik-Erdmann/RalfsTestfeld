@@ -94,6 +94,7 @@ int main()
     cout << "Wert in Otest.var2 ist: ";
     cout << Otest.GetWert() << "\n"; // Der Standardwert für var2 wird ausgegeben, da dieser beim initialisieren/vererben mit diesen Werten übernommen wird!
 
+
     // Unterfunktion einbinden
 
     int Ausgabe = WertBerechnen(15, 17);

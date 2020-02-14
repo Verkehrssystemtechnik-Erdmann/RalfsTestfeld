@@ -110,9 +110,6 @@ int main()
     return 0;
 }
 
-
-
-
 // Programm ausführen: STRG+F5 oder "Debuggen" > Menü "Ohne Debuggen starten"
 // Programm debuggen: F5 oder "Debuggen" > Menü "Debuggen starten"
 

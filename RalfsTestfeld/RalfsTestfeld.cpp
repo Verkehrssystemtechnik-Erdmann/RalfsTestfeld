@@ -7,7 +7,6 @@
 using namespace std; // Dann muss es nicht mehr std::cout heißen, sondern es kann auch nur cout verwendet werden 
 
 
-
 class Testclass
 {
 public:

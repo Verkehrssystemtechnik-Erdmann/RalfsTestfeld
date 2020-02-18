@@ -21,6 +21,8 @@ private:
     int var2 = 7; // auf den Wert kann somit nicht direkt zugegriffen werden!
 };
 
+
+
 const int Testclass::GetWert()
 {
     // cout << "(Der Wert im Speicher wird abgerufen.)\n";
